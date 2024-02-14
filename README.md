@@ -12,3 +12,5 @@ Este script automatiza o processo de consulta de demonstrativos do CADPREV para 
 - Python 3.x
 - Bibliotecas:
   - pyautogui
+
+## Melhorias Futuras: Utilização do pandas para extrair os dados diretamente do relatório, possibilitando a automação do processo de coleta de informações. Esses dados serão então adicionados automaticamente a uma planilha, melhorando a eficiência e a organização do trabalho.
